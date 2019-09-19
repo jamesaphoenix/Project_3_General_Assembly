@@ -1,4 +1,4 @@
-# Project 3 - Regression and classification with housing data General Assembly Assignment
+# Project 3 - Regression and Classification - General Assembly Assignment
 
 - - - - 
 
