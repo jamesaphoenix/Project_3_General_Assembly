@@ -11,4 +11,4 @@ During this project, I learned how to implement machine learning models within S
 * Clearly outlining my modeling strategy in response to the questions.
 * Explaining my results to a technical audience.
 
-[Jupyter Notebook - Assignment 3](Project-2-James-Phoenix.ipynb)
+[Jupyter Notebook - Assignment 3](Project-03-James-Anthony-Phoenix-New-Version.ipynb)
