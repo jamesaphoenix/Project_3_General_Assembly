@@ -4,7 +4,7 @@
 
 During this project, I learned how to implement machine learning models within Sci-kit learn and produced a regression and classification model using the Ames Housing Dataset.
 
-* Analyzing  a complex dataset & explicitly state your assumptions.
+* Analyzing  a complex dataset & explicitly stating my assumptions.
 * Cleaning, imputing, and exploring the dataset.
 * Justifying my modeling choices and performing feature engineering.
 * Plotting, visualizing, and logically interpreting the data.
